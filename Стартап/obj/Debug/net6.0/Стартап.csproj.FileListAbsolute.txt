@@ -1,0 +1,52 @@
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Стартап.exe
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Стартап.deps.json
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Стартап.runtimeconfig.json
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Стартап.dll
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Стартап.pdb
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\user\Desktop\35d\Стартап\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\35d\Стартап\obj\Debug\net6.0\Стартап.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\35d\Стартап\obj\Debug\net6.0\Стартап.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\35d\Стартап\obj\Debug\net6.0\Стартап.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\35d\Стартап\obj\Debug\net6.0\Стартап.AssemblyInfo.cs
+C:\Users\user\Desktop\35d\Стартап\obj\Debug\net6.0\Стартап.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\35d\Стартап\obj\Debug\net6.0\Стартап.csproj.CopyComplete
+C:\Users\user\Desktop\35d\Стартап\obj\Debug\net6.0\Стартап.dll
+C:\Users\user\Desktop\35d\Стартап\obj\Debug\net6.0\refint\Стартап.dll
+C:\Users\user\Desktop\35d\Стартап\obj\Debug\net6.0\Стартап.pdb
+C:\Users\user\Desktop\35d\Стартап\obj\Debug\net6.0\Стартап.genruntimeconfig.cache
+C:\Users\user\Desktop\35d\Стартап\obj\Debug\net6.0\ref\Стартап.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Стартап.exe
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Стартап.deps.json
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Стартап.runtimeconfig.json
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Стартап.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Стартап.pdb
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\System.Text.Json.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\obj\Debug\net6.0\Стартап.csproj.AssemblyReference.cache
+C:\Main Disk\Загрузки\Программирование\Стартап\obj\Debug\net6.0\Стартап.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main Disk\Загрузки\Программирование\Стартап\obj\Debug\net6.0\Стартап.AssemblyInfoInputs.cache
+C:\Main Disk\Загрузки\Программирование\Стартап\obj\Debug\net6.0\Стартап.AssemblyInfo.cs
+C:\Main Disk\Загрузки\Программирование\Стартап\obj\Debug\net6.0\Стартап.csproj.CoreCompileInputs.cache
+C:\Main Disk\Загрузки\Программирование\Стартап\obj\Debug\net6.0\Стартап.csproj.Up2Date
+C:\Main Disk\Загрузки\Программирование\Стартап\obj\Debug\net6.0\Стартап.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\obj\Debug\net6.0\refint\Стартап.dll
+C:\Main Disk\Загрузки\Программирование\Стартап\obj\Debug\net6.0\Стартап.pdb
+C:\Main Disk\Загрузки\Программирование\Стартап\obj\Debug\net6.0\Стартап.genruntimeconfig.cache
+C:\Main Disk\Загрузки\Программирование\Стартап\obj\Debug\net6.0\ref\Стартап.dll
